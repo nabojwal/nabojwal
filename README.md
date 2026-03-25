@@ -13,4 +13,4 @@ My research interests lie at the intersection of:
 
 with a focus on principled, scalable methods that bridge theory and clinical utility.
 
-📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/nabojwal-acharjee) · [Email](nabojwal@gmail.com)
+📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/nabojwal-acharjee) · [Email](mailto:nabojwal@gmail.com)
