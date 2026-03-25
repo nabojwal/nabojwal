@@ -1,18 +1,6 @@
 # Hi, I'm Nabojwal 👋
 
 PhD Candidate in **Deep Learning for Medical Imaging**
-[//]: # (
-I work on MRI in oncological settings, tackling inverse problems such as 
-**accelerated image reconstruction** and **cross-domain image synthesis**, 
-alongside **representation learning** for medical data.
-
-My research interests lie at the intersection of:
-- 🧠 Generative Modeling
-- ⚡ Physics-Informed Learning
-- 🏗️ Foundation Models for Medical Imaging
-
-with a focus on principled, scalable methods that bridge theory and clinical utility.
-)
 
 📫 Connect with me: 
 <p align="left">
