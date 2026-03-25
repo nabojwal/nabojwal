@@ -1,6 +1,6 @@
 # Hi, I'm Nabojwal 👋
 
-PhD Research Fellow in **Deep Learning for Medical Imaging**
+PhD Candidate in **Deep Learning for Medical Imaging**
 
 I work on MRI in oncological settings, tackling inverse problems such as 
 **accelerated image reconstruction** and **cross-domain image synthesis**, 
@@ -14,7 +14,7 @@ My research interests lie at the intersection of:
 with a focus on principled, scalable methods that bridge theory and clinical utility.
 
 📫 Connect with me: 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/nabojwal-acharjee/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28" />
   </a>
