@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Nabojwal 👋
 
-<!--
-**nabojwal/nabojwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PhD Research Fellow in **Deep Learning for Medical Imaging**
 
-Here are some ideas to get you started:
+I work on MRI in oncological settings, tackling inverse problems such as 
+**accelerated image reconstruction** and **cross-domain image synthesis**, 
+alongside **representation learning** for medical data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My research interests lie at the intersection of:
+- 🧠 Generative Modeling
+- ⚡ Physics-Informed Learning
+- 🏗️ Foundation Models for Medical Imaging
+
+with a focus on principled, scalable methods that bridge theory and clinical utility.
+
+📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/nabojwal-acharjee) · [Email](nabojwal@gmail.com)
