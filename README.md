@@ -1,6 +1,6 @@
 # Hi, I'm Nabojwal 👋
 
-PhD Candidate in **Deep Learning for Medical Imaging**
+A PhD Candidate in **Deep Learning for Medical Imaging**
 
 📫 Connect with me: 
 <p align="left">
