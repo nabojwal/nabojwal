@@ -153,6 +153,6 @@ Authors · *Conference/Journal, Year*
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0d1117&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A0404,50:8B0000,100:C9A227&height=120&section=header" width="100%"/>
 
 </div>
