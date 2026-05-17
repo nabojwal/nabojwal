@@ -37,29 +37,38 @@ I approach research with a strong emphasis on interpretability, generalization, 
 
 ## Research Interests
 
-| Domain | Focus |
-|---|---|
-| **MRI Reconstruction** | Accelerated acquisition, k-space learning, unrolled networks |
-| **Medical Image Analysis** | Segmentation, anomaly detection, domain adaptation |
-| **Generative Modeling** | Diffusion priors, score-based models for inverse problems |
-| **Uncertainty Quantification** | Bayesian deep learning, epistemic uncertainty in clinical AI |
-| **Self-supervised Learning** | Representation learning under scarce annotation regimes |
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### MRI & Inverse Problems
+- **MRI Reconstruction** — accelerated acquisition, k-space learning, unrolled networks
+- **Generative Modeling** — diffusion priors, score-based methods for inverse problems
+- **Uncertainty Quantification** — Bayesian deep learning, epistemic uncertainty in clinical AI
+
+</td>
+<td valign="top" width="50%">
+
+### Learning Under Scarcity
+- **Medical Image Analysis** — segmentation, anomaly detection, domain adaptation
+- **Self-supervised Learning** — representation learning under limited annotation regimes
+- **Robust Medical AI** — reliability under distribution shift and clinical noise
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Current Research Focus
 
-```
-Accelerated MRI Reconstruction
-  ├── Physics-informed deep unrolling architectures
-  ├── Diffusion model priors for undersampled k-space recovery
-  ├── Robustness to distribution shift across scanner sites
-  └── Evaluation under clinically realistic noise regimes
-```
+> **Accelerated MRI Reconstruction**
 
-I am particularly interested in how modern generative and self-supervised methods can be adapted to function reliably in low-data, high-stakes medical environments — not just on curated benchmark datasets.
-
----
+```text
+Physics-informed deep unrolling
+├── Diffusion model priors for undersampled k-space recovery
+├── Robustness across scanner sites and acquisition shifts
+└── Evaluation under clinically realistic noise and uncertainty
 
 ## Technical Ecosystem
 
