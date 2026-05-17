@@ -68,8 +68,9 @@ Physics-informed deep unrolling
 ├── Diffusion model priors for undersampled k-space recovery
 ├── Robustness across scanner sites and acquisition shifts
 └── Evaluation under clinically realistic noise and uncertainty
-
+```
 <br/>
+
 ---
 
 ## Technical Ecosystem
