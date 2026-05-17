@@ -61,16 +61,20 @@ I am particularly interested in how modern generative and self-supervised method
 
 ---
 
-## Technical Skills
+## Technical Ecosystem
 
-**Core Languages**
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### Core Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-**ML / DL Frameworks**
+### ML / DL Frameworks
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![JAX](https://img.shields.io/badge/JAX-A8B9CC?style=flat-square&logo=google&logoColor=black)
@@ -78,20 +82,28 @@ I am particularly interested in how modern generative and self-supervised method
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-**Medical Imaging Stack**
+</td>
+
+<td valign="top" width="50%">
+
+### Medical Imaging Stack
 
 ![MONAI](https://img.shields.io/badge/MONAI-1A73E8?style=flat-square&logo=pytorch&logoColor=white)
 ![SimpleITK](https://img.shields.io/badge/SimpleITK-005571?style=flat-square)
 ![NiBabel](https://img.shields.io/badge/NiBabel-777BB4?style=flat-square)
 ![FastMRI](https://img.shields.io/badge/fastMRI-FF6B6B?style=flat-square)
 
-**Infrastructure**
+### Infrastructure
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![WandB](https://img.shields.io/badge/W%26B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
