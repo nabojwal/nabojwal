@@ -1,121 +1,158 @@
-<h1 align="center">
-Hi 👋, I'm Nabojwal
-</h1>
+<div align="center">
 
-<h3 align="center">
-PhD Research Fellow @ IIT Madras
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0d1117&height=120&section=header" width="100%"/>
 
-<p align="center">
-Deep Learning • Medical Image Analysis • MRI Reconstruction • Computer Vision
-</p>
+</div>
 
-<p align="center">
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge)
-![PyTorch](https://img.shields.io/badge/PyTorch-DeepLearning-red?style=for-the-badge)
-![Research](https://img.shields.io/badge/Research-Medical_AI-purple?style=for-the-badge)
-![MRI](https://img.shields.io/badge/Focus-Medical_Imaging-green?style=for-the-badge)
+# Nabojwal Acharjee
 
-</p>
+**PhD Research Fellow · Indian Institute of Technology Madras**
 
----
+*Deep Learning for Medical Imaging · MRI Reconstruction · Scientific AI*
 
-# 🧠 About Me
+<br/>
 
-I am a PhD Research Fellow at IIT Madras working in the intersection of:
-- Deep Learning
-- Medical Image Processing
-- MRI Reconstruction
-- Computer Vision
-- Generative AI for Healthcare
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabojwal-acharjee/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nabojwal@gmail.com)
+[![IIT Madras](https://img.shields.io/badge/IIT%20Madras-003087?style=flat-square&logo=academia&logoColor=white)](https://www.iitm.ac.in)
+[![Google Scholar](https://img.shields.io/badge/Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](#)
 
-My current research focuses on developing robust and efficient deep learning methods for medical imaging applications, particularly in MRI reconstruction, enhancement, and cross-domain representation learning.
+</div>
 
-I enjoy building models from scratch, understanding optimization dynamics inside neural networks, and exploring interpretable AI systems for healthcare.
+<br/>
 
 ---
 
-# 🔬 Research Interests
+## About
 
-- Medical Image Reconstruction
-- Low-Field MRI Enhancement
-- Diffusion Models
-- Vision Transformers
-- Representation Learning
-- Multimodal Deep Learning
-- Explainable AI in Healthcare
-- Optimization & Attention Mechanisms
+I am a PhD Research Fellow at the **Indian Institute of Technology Madras**, working at the intersection of **deep learning** and **clinical medical imaging**. My research focuses on building principled, data-efficient algorithms for MRI reconstruction — developing methods that are not only mathematically rigorous but clinically meaningful.
+
+I approach research with a strong emphasis on interpretability, generalization, and the gap between academic benchmarks and real-world deployment in healthcare settings.
 
 ---
 
-# 🚀 Current Focus
+## Research Interests
 
-- Transformer Architectures
-- Diffusion-based MRI Reconstruction
-- Cross-field MRI Translation
-- Efficient Deep Learning for Medical Imaging
-- Self-supervised Representation Learning
-
----
-
-# 🛠️ Tech Stack
-
-### Languages & Frameworks
-
-<p align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" />
-
-</p>
+| Domain | Focus |
+|---|---|
+| **MRI Reconstruction** | Accelerated acquisition, k-space learning, unrolled networks |
+| **Medical Image Analysis** | Segmentation, anomaly detection, domain adaptation |
+| **Generative Modeling** | Diffusion priors, score-based models for inverse problems |
+| **Uncertainty Quantification** | Bayesian deep learning, epistemic uncertainty in clinical AI |
+| **Self-supervised Learning** | Representation learning under scarce annotation regimes |
 
 ---
 
-# 📈 GitHub Stats
+## Current Research Focus
 
-<p align="center">
+```
+Accelerated MRI Reconstruction
+  ├── Physics-informed deep unrolling architectures
+  ├── Diffusion model priors for undersampled k-space recovery
+  ├── Robustness to distribution shift across scanner sites
+  └── Evaluation under clinically realistic noise regimes
+```
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=nabojwal&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabojwal&layout=compact&theme=tokyonight&hide_border=true" />
-
-</p>
+I am particularly interested in how modern generative and self-supervised methods can be adapted to function reliably in low-data, high-stakes medical environments — not just on curated benchmark datasets.
 
 ---
 
-# 📫 Connect With Me
+## Technical Skills
 
-<p align="left">
+**Core Languages**
 
-<a href="https://www.linkedin.com/in/nabojwal-acharjee/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" />
-</a>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
+**ML / DL Frameworks**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![JAX](https://img.shields.io/badge/JAX-A8B9CC?style=flat-square&logo=google&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+**Medical Imaging Stack**
+
+![MONAI](https://img.shields.io/badge/MONAI-1A73E8?style=flat-square&logo=pytorch&logoColor=white)
+![SimpleITK](https://img.shields.io/badge/SimpleITK-005571?style=flat-square)
+![NiBabel](https://img.shields.io/badge/NiBabel-777BB4?style=flat-square)
+![FastMRI](https://img.shields.io/badge/fastMRI-FF6B6B?style=flat-square)
+
+**Infrastructure**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![WandB](https://img.shields.io/badge/W%26B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## Publications & Preprints
+
+> *Selected works — full list on [Google Scholar](#)*
+
+<!-- Add entries as:
+**[Paper Title](link)**  
+Authors · *Conference/Journal, Year*  
+`MRI` `Diffusion Models` `Reconstruction`
+-->
+
+| Year | Work | Venue |
+|------|------|-------|
+| — | *(forthcoming)* | — |
+
+*I am actively writing up results from my current PhD research. Watch this space.*
+
+---
+
+## GitHub Statistics
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=nabojwal&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&rank_icon=github&hide=prs,issues" />
 &nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabojwal&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6" />
 
-<a href="mailto:nabojwal@gmail.com">
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="35" />
-</a>
+</div>
 
-</p>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=nabojwal&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="140"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nabojwal&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" width="95%"/>
+
+</div>
 
 ---
 
-# 🌱 Philosophy
+## Open to
 
-> “The most exciting part of research is not just achieving results, but understanding *why* a model learns the way it does.”
+- **Academic collaborations** on MRI reconstruction, medical image analysis, or scientific ML
+- **Research internships** (industry or academic labs) in medical AI, generative modeling
+- **Discussions** on deep learning theory, inverse problems, or clinical deployment challenges
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nabojwal&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/nabojwal?label=Followers&style=for-the-badge&color=ff69b4" />
-</p>
+<div align="center">
+
+<br/>
+
+*"The goal of science is not to open a door to infinite wisdom, but to set a limit on infinite error."*
+
+— Bertolt Brecht
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0d1117&height=80&section=footer" width="100%"/>
+
+</div>
