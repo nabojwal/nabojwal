@@ -26,7 +26,6 @@
 
 <br/>
 
-## &nbsp; Research Mission
 ## About
 
 I am a PhD Research Fellow at the **Indian Institute of Technology Madras**, working at the intersection of **deep learning** and **clinical medical imaging**. My research focuses on building principled, data-efficient algorithms for MRI reconstruction — developing methods that are not only mathematically rigorous but clinically meaningful.
@@ -69,6 +68,7 @@ Physics-informed deep unrolling
 ├── Diffusion model priors for undersampled k-space recovery
 ├── Robustness across scanner sites and acquisition shifts
 └── Evaluation under clinically realistic noise and uncertainty
+---
 
 ## Technical Ecosystem
 
