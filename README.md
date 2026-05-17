@@ -114,36 +114,6 @@ My work engages with this problem directly: how do we build systems that know wh
 
 ---
 
-<br/>
-
-## &nbsp; Active Research Directions
-
-> These are not projects in the conventional sense. They are active lines of inquiry — questions I am presently in the middle of answering.
-
-<br/>
-
-**`[I]` &nbsp; Physics-Informed Deep Unrolling for MRI Reconstruction**
-
-Unrolled networks — architectures that unroll iterative optimization algorithms and replace hand-crafted priors with learned ones — occupy an interesting position between classical signal processing and modern deep learning. I am studying how to make these networks more robust to k-space sampling pattern variation and scanner heterogeneity, while preserving the interpretability that comes from their explicit algorithmic structure.
-
-<br/>
-
-**`[II]` &nbsp; Diffusion Posterior Sampling in k-Space**
-
-Standard diffusion-based reconstruction methods operate in image space and enforce data consistency post-hoc. I am investigating formulations that work natively in the measurement domain — treating k-space itself as the space of observations and recovering images through constrained reverse diffusion. The theoretical and practical challenges here are non-trivial.
-
-<br/>
-
-**`[III]` &nbsp; Calibration & Uncertainty in Learned Reconstructions**
-
-A reconstruction network's confidence score is only meaningful if it is calibrated against real failure modes. I am studying how to evaluate uncertainty in MRI reconstruction outputs — not by comparing to held-out test sets alone, but by examining behavior under clinically realistic perturbations that a model was never trained to handle.
-
-<br/>
-
----
-
-<br/>
-
 ## &nbsp; Publications & Manuscripts
 
 <div align="center">
@@ -160,7 +130,7 @@ Nabojwal Acharjee, Co-Author(s)
 *Conference / Journal · Year*
 [[PDF](#)] [[Code](#)] [[Poster](#)]
 `keyword` `keyword`
--->
+
 
 | | |
 |---|---|
@@ -171,7 +141,7 @@ Nabojwal Acharjee, Co-Author(s)
 *I will populate this section as work reaches publication. I prefer to share results I stand behind over a high publication count.*
 
 <br/>
-
+-->
 ---
 
 <br/>
