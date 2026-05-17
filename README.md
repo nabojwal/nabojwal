@@ -220,9 +220,8 @@ If your work touches any of these, I am open to conversation.
 
 <sub>
 
-The hardest problems in medical imaging are not algorithmic.
-They are epistemological: *how do we know when we can trust what we've recovered?*
-That question is what keeps me working.
+“What we observe is not nature itself, but nature exposed to our method of questioning.”
+— Werner Heisenberg
 
 </sub>
 
