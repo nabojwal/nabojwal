@@ -6,7 +6,7 @@
 
 <div align="center">
 
-*Inverse Problems · MRI Reconstruction · Deep Generative Models · Clinical AI*
+*Inverse Problems · MRI · Deep Generative Models · Clinical AI*
 
 <br/>
 
@@ -28,48 +28,7 @@
 
 ## About
 
-I am a PhD Research Fellow at the **Indian Institute of Technology Madras**, working at the intersection of **deep learning** and **clinical medical imaging**. My research focuses on building principled, data-efficient algorithms for MRI reconstruction — developing methods that are not only mathematically rigorous but clinically meaningful.
-
-I approach research with a strong emphasis on interpretability, generalization, and the gap between academic benchmarks and real-world deployment in healthcare settings.
-
----
-
-## Research Interests
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-### MRI & Inverse Problems
-- **MRI Reconstruction** — accelerated acquisition, k-space learning, unrolled networks
-- **Generative Modeling** — diffusion priors, score-based methods for inverse problems
-- **Uncertainty Quantification** — Bayesian deep learning, epistemic uncertainty in clinical AI
-
-</td>
-<td valign="top" width="50%">
-
-### Learning Under Scarcity
-- **Medical Image Analysis** — segmentation, anomaly detection, domain adaptation
-- **Self-supervised Learning** — representation learning under limited annotation regimes
-- **Robust Medical AI** — reliability under distribution shift and clinical noise
-
-</td>
-</tr>
-</table>
-
----
-
-## Current Research Focus
-
-> **Accelerated MRI Reconstruction**
-
-```text
-Physics-informed deep unrolling
-├── Diffusion model priors for undersampled k-space recovery
-├── Robustness across scanner sites and acquisition shifts
-└── Evaluation under clinically realistic noise and uncertainty
-```
-<br/>
+I am a PhD Research Fellow at the **Indian Institute of Technology Madras**, working at the intersection of **deep learning** and **clinical medical imaging**. 
 
 ---
 
