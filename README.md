@@ -28,7 +28,7 @@
 
 ## About
 
-I am a PhD Research Fellow at the **Indian Institute of Technology Madras**, working at the intersection of **deep learning** and **clinical medical imaging**. 
+I am a PhD Candidate at the **Indian Institute of Technology Madras**, working at the intersection of **deep learning** and **clinical medical imaging**. 
 
 ---
 
@@ -136,7 +136,7 @@ I am genuinely interested in working with people who take the following seriousl
 
 - The **failure modes** of deep learning in safety-critical settings, not just benchmark performance
 - The relationship between **mathematical structure** — compressed sensing, Bayesian inference, optimization theory — and what we observe empirically in trained networks
-- **Clinical translation**: what it actually takes to move a reconstruction algorithm from a research paper into a hospital workflow
+- **Clinical translation**: what it actually takes to move a deep algorithm from a research paper into a hospital workflow
 
 If your work touches any of these, I am open to conversation.
 
