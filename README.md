@@ -1,164 +1,52 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,17&height=140&section=header&text=Nabojwal%20Acharjee&fontSize=38&fontColor=D4AF37&animation=fadeIn&fontAlignY=55&desc=PhD%20Candidate%20%C2%B7%20IIT%20Madras&descSize=14&descAlignY=78&descColor=F5E6C8" width="100%"/>
-</div>
+# Nabojwal Acharjee
 
-<br/>
+**PhD Scholar · Indian Institute of Technology Madras**  
+Department of Medical Sciences & Technology  
+Computational Biomedical Imaging & Health Informatics Laboratory (CBIHI)
 
-<div align="center">
+[Email](mailto:nabojwal@gmail.com) · [LinkedIn](https://www.linkedin.com/in/nabojwal-acharjee/) · [GitHub](https://github.com/nabojwal)
 
-*Inverse Problems · MRI · Deep Generative Models · Clinical AI*
+I study deep learning for medical imaging, with a particular interest in magnetic resonance imaging (MRI). My research interests span image reconstruction, generative modelling, and the analysis of anatomical structure. I am interested in how acquisition physics and geometry can inform models whose outputs support reliable quantitative measurements.
 
-<br/>
+## Research interests
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabojwal-acharjee/)
-&nbsp;
-[![Email](https://img.shields.io/badge/mail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nabojwal@gmail.com)
-&nbsp;
-[![Google Scholar](https://img.shields.io/badge/Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](#)
-&nbsp;
-[![IIT Madras](https://img.shields.io/badge/IIT%20Madras-003087?style=flat-square)](https://www.iitm.ac.in)
+- **MRI reconstruction and inverse problems.** Learning to recover images from undersampled measurements while respecting the acquisition model. I am interested in neural operators and the relationship between reconstruction quality, structural detail, and downstream analysis.
+- **Generative modelling across magnetic field strengths.** Studying how models can represent changes in image contrast and quality across acquisition conditions, with attention to preserving anatomy and evaluating whether generated detail is supported by the input.
+- **Medical imaging foundation models.** Exploring representations that transfer across imaging tasks and datasets, including the effects of acquisition differences on segmentation and quantitative analysis.
+- **Geometry-aware musculoskeletal imaging.** Investigating surface representations and spectral methods for analysing bone, cartilage, and meniscus morphology in knee MRI, particularly in the study of osteoarthritis.
+- **Segmentation, uncertainty, and imaging biomarkers.** Examining how segmentation variability affects volume, thickness, and other measurements, and how uncertainty estimates might inform longitudinal analysis.
 
-</div>
+## Ongoing work
 
-<br/>
+**Knee MRI morphology and biomarkers**  
+Reproducing a published surface-based analysis workflow using Osteoarthritis Initiative (OAI) MRI segmentation masks. The work involves mesh construction, bone shape representations, and cartilage thickness mapping. Reproduction and method verification precede proposed extensions to geometry-aware analysis and uncertainty estimation.
 
----
+**MRI Volume Normalizer**  
+Developing a Java-based course project for organising MRI files and supporting DICOM–NIfTI conversion workflows. The project includes file inspection, batch processing, a desktop interface, and quality reporting, with attention to testing and documentation.
 
-<br/>
+<!-- Add repository links to the ongoing work above once the intended repositories
+are confirmed. Label each project's release and validation status accurately.
+Add a Selected software section only when public releases can be linked. -->
 
-## About
+<!-- Add Publications and preprints when verified citations are available:
+authors, title, venue or preprint server, year, and DOI or persistent URL.
+Identify preprints explicitly; do not use placeholder publication links. -->
 
-I am a PhD Candidate at the **Indian Institute of Technology Madras**, working at the intersection of **deep learning** and **clinical medical imaging**. 
+## Research tools
 
----
+Selected tools used across my work; the choice depends on the problem and workflow.
 
-## Technical Ecosystem
+| Purpose | Tools |
+| :--- | :--- |
+| Model development | Python, PyTorch, MONAI, scikit-learn |
+| Numerical and image analysis | NumPy, SciPy, pandas, SimpleITK, NiBabel |
+| Software development | Java, Git, Linux, Bash |
+| Experiments and communication | Weights & Biases, Jupyter, LaTeX, Markdown |
 
-<table>
-<tr>
+**Datasets used:** fastMRI and the Osteoarthritis Initiative (OAI).
 
-<td valign="top" width="33%">
+## Contact
 
-### Core Languages
+I welcome discussions about MRI inverse problems, anatomical modelling, reproducible research software, and the evaluation of medical imaging models. I am particularly interested in connecting methodological choices to their effects on quantitative measurements and model failure modes.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-
-### ML / DL Frameworks
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![JAX](https://img.shields.io/badge/JAX-A8B9CC?style=flat-square&logo=google&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
-</td>
-
-<td valign="top" width="33%">
-
-### Medical Imaging Stack
-
-![MONAI](https://img.shields.io/badge/MONAI-1A73E8?style=flat-square&logo=pytorch&logoColor=white)
-![SimpleITK](https://img.shields.io/badge/SimpleITK-005571?style=flat-square)
-![NiBabel](https://img.shields.io/badge/NiBabel-777BB4?style=flat-square)
-![fastMRI](https://img.shields.io/badge/fastMRI-FF6B6B?style=flat-square)
-
-### Infrastructure
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-</td>
-
-<td valign="top" width="33%">
-
-### Scientific Computing
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
-### Experiment Tracking
-
-![Weights & Biases](https://img.shields.io/badge/W%26B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
-
-</td>
-
-</tr>
-</table>
-
----
-
-## Publications & Preprints
-
-> *Selected works — full list on [Google Scholar](#)*
-
-<!-- Add entries as:
-**[Paper Title](link)**  
-Authors · *Conference/Journal, Year*  
-`MRI` `Diffusion Models` `Reconstruction`
--->
-
-| Year | Work | Venue |
-|------|------|-------|
-| — | *(forthcoming)* | — |
-
-*I am actively writing up results from my current PhD research. Watch this space.*
-
----
-
-## GitHub Statistics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=nabojwal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabojwal&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=nabojwal&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-## &nbsp; Collaboration
-
-I am genuinely interested in working with people who take the following seriously:
-
-- The **failure modes** of deep learning in safety-critical settings, not just benchmark performance
-- The relationship between **mathematical structure** — compressed sensing, Bayesian inference, optimization theory — and what we observe empirically in trained networks
-- **Clinical translation**: what it actually takes to move a deep algorithm from a research paper into a hospital workflow
-
-If your work touches any of these, I am open to conversation.
-
-[![LinkedIn](https://img.shields.io/badge/Reach%20out%20on%20LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabojwal-acharjee/)
-&nbsp;
-[![Email](https://img.shields.io/badge/Send%20an%20email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nabojwal@gmail.com)
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-<sub>
-
-“What we observe is not nature itself, but nature exposed to our method of questioning.”
-— Werner Heisenberg
-
-</sub>
-
-<br/><br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,17&height=90&section=footer" width="100%"/>
-</div>
+For research enquiries or collaboration, contact me at [nabojwal@gmail.com](mailto:nabojwal@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/nabojwal-acharjee/).
