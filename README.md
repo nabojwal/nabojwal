@@ -1,8 +1,8 @@
 # Nabojwal Acharjee
 
 **PhD Scholar · Indian Institute of Technology Madras**  
-Department of Medical Sciences & Technology  
-Computational Biomedical Imaging & Health Informatics Laboratory (CBIHI)
+<!-- Department of Medical Sciences & Technology  
+Computational Biomedical Imaging & Health Informatics Laboratory (CBIHI) -->
 
 [Email](mailto:nabojwal@gmail.com) · [LinkedIn](https://www.linkedin.com/in/nabojwal-acharjee/) · [GitHub](https://github.com/nabojwal)
 
