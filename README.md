@@ -10,11 +10,16 @@ I study deep learning for medical imaging, with a particular interest in magneti
 
 ## Research interests
 
-- **MRI reconstruction and inverse problems.** Learning to recover images from undersampled measurements while respecting the acquisition model. I am interested in neural operators and the relationship between reconstruction quality, structural detail, and downstream analysis.
-- **Generative modelling across magnetic field strengths.** Studying how models can represent changes in image contrast and quality across acquisition conditions, with attention to preserving anatomy and evaluating whether generated detail is supported by the input.
-- **Medical imaging foundation models.** Exploring representations that transfer across imaging tasks and datasets, including the effects of acquisition differences on segmentation and quantitative analysis.
-- **Geometry-aware musculoskeletal imaging.** Investigating surface representations and spectral methods for analysing bone, cartilage, and meniscus morphology in knee MRI, particularly in the study of osteoarthritis.
-- **Segmentation, uncertainty, and imaging biomarkers.** Examining how segmentation variability affects volume, thickness, and other measurements, and how uncertainty estimates might inform longitudinal analysis.
+- **MRI reconstruction and inverse problems.** 
+<!-- Learning to recover images from undersampled measurements while respecting the acquisition model. I am interested in neural operators and the relationship between reconstruction quality, structural detail, and downstream analysis. -->
+- **Generative modelling across magnetic field strengths.** 
+<!-- Studying how models can represent changes in image contrast and quality across acquisition conditions, with attention to preserving anatomy and evaluating whether generated detail is supported by the input. -->
+- **Medical imaging foundation models.**
+ <!-- Exploring representations that transfer across imaging tasks and datasets, including the effects of acquisition differences on segmentation and quantitative analysis. -->
+- **Geometry-aware musculoskeletal imaging.**
+ <!-- Investigating surface representations and spectral methods for analysing bone, cartilage, and meniscus morphology in knee MRI, particularly in the study of osteoarthritis. -->
+- **Segmentation, uncertainty, and imaging biomarkers.**
+ <!-- Examining how segmentation variability affects volume, thickness, and other measurements, and how uncertainty estimates might inform longitudinal analysis. -->
 
 <!-- ## Ongoing work
 
