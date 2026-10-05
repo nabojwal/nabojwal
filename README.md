@@ -16,13 +16,13 @@ I study deep learning for medical imaging, with a particular interest in magneti
 - **Geometry-aware musculoskeletal imaging.** Investigating surface representations and spectral methods for analysing bone, cartilage, and meniscus morphology in knee MRI, particularly in the study of osteoarthritis.
 - **Segmentation, uncertainty, and imaging biomarkers.** Examining how segmentation variability affects volume, thickness, and other measurements, and how uncertainty estimates might inform longitudinal analysis.
 
-## Ongoing work
+<!-- ## Ongoing work
 
 **Knee MRI morphology and biomarkers**  
 Reproducing a published surface-based analysis workflow using Osteoarthritis Initiative (OAI) MRI segmentation masks. The work involves mesh construction, bone shape representations, and cartilage thickness mapping. Reproduction and method verification precede proposed extensions to geometry-aware analysis and uncertainty estimation.
 
 **MRI Volume Normalizer**  
-Developing a Java-based course project for organising MRI files and supporting DICOM–NIfTI conversion workflows. The project includes file inspection, batch processing, a desktop interface, and quality reporting, with attention to testing and documentation.
+Developing a Java-based course project for organising MRI files and supporting DICOM–NIfTI conversion workflows. The project includes file inspection, batch processing, a desktop interface, and quality reporting, with attention to testing and documentation. -->
 
 <!-- Add repository links to the ongoing work above once the intended repositories
 are confirmed. Label each project's release and validation status accurately.
