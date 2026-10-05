@@ -43,7 +43,7 @@ Selected tools used across my work; the choice depends on the problem and workfl
 | Software development | Java, Git, Linux, Bash |
 | Experiments and communication | Weights & Biases, Jupyter, LaTeX, Markdown |
 
-**Datasets used:** fastMRI and the Osteoarthritis Initiative (OAI).
+<!-- **Datasets used:** fastMRI and the Osteoarthritis Initiative (OAI). -->
 
 ## Contact
 
