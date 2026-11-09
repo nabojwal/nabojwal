@@ -54,4 +54,4 @@ Selected tools used across my work; the choice depends on the problem and workfl
 
 I welcome discussions about MRI inverse problems, anatomical modelling, reproducible research software, and the evaluation of medical imaging models. I am particularly interested in connecting methodological choices to their effects on quantitative measurements and model failure modes.
 
-For research enquiries or collaboration, contact me at [nabojwal@gmail.com](mailto:nabojwal@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/nabojwal-acharjee/).
+I can be reached at [nabojwal@gmail.com](mailto:nabojwal@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/nabojwal-acharjee/).
